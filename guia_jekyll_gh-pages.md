@@ -4,9 +4,9 @@
 // con el repositorio vacío
 > jekyll _VERSION_ new .  
 
-// https://pages.github.com/versions/  ahi está la version a sustituir
+// https://pages.github.com/versions/  ahi está la version a sustituir  
 // ejemplo: jekyll _3.8.5_ new .
 
-// copiar el contenido del gemfile, _config.yml y si quiero el index
+// copiar el contenido del gemfile, _config.yml y si quiero el index  
 // https://github.com/ULL-ESIT-PL-1920/p3-t1-handling-events-alu0101020730/tree/gh-pages
 
