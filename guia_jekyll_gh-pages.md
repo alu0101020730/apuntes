@@ -1,10 +1,8 @@
-guia jekyll gh pages
-
-$ git checkout --orphan gh-pages // crea rama gh-pages y deja vacio el directorio
+// crea rama gh-pages y deja vacio el directorio
+> git checkout --orphan gh-pages 
 
 // con el repositorio vacío
-
-$ jekyll _VERSION_ new .  
+> jekyll _VERSION_ new .  
 
 // https://pages.github.com/versions/  ahi está la version a sustituir
 // ejemplo: jekyll _3.8.5_ new .
