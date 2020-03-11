@@ -1,6 +1,6 @@
 guia jekyll gh pages
 
-$ git checkout gh-pages
+$ git checkout --orphan gh-pages // crea rama gh-pages y deja vacio el directorio
 
 // con el repositorio vacío
 
