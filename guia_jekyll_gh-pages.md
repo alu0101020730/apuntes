@@ -2,7 +2,7 @@
 > git checkout --orphan gh-pages 
 
 // con el repositorio vacío
-> jekyll _VERSION_ new .  
+> jekyll \_VERSION\_ new .  
 
 // https://pages.github.com/versions/  ahi está la version a sustituir  
 // ejemplo: jekyll _3.8.5_ new .
